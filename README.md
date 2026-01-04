@@ -1,2 +1,2 @@
 # GolangAndRust_DiningPhilsophers
-A repository to learn Goland and Rust through the Dining Philosophers excercise
+A repository to learn Golang and Rust through the Dining Philosophers excercise
